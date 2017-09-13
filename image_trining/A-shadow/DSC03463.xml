@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03463.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="77" y="343" width="542" height="109">
+        <character x="77" y="356" width="67" height="63" char="이" />
+        <character x="144" y="355" width="79" height="61" char="마" />
+        <character x="221" y="355" width="69" height="63" char="트" />
+        <character x="301" y="345" width="82" height="94" char="가" />
+        <character x="385" y="343" width="70" height="109" char="을" />
+        <character x="453" y="344" width="70" height="101" char="풍" />
+        <character x="520" y="344" width="99" height="91" char="년" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>4</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

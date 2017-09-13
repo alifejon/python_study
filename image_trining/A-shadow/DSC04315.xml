@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04315.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="104" y="408" width="496" height="62">
+        <character x="104" y="410" width="36" height="54" char="8" />
+        <character x="141" y="408" width="27" height="54" char="2" />
+        <character x="169" y="415" width="27" height="49" char="4" />
+        <character x="212" y="416" width="29" height="42" char="7" />
+        <character x="241" y="415" width="29" height="47" char="5" />
+        <character x="271" y="415" width="23" height="47" char="7" />
+        <character x="292" y="417" width="29" height="47" char="5" />
+        <character x="332" y="417" width="32" height="46" char="대" />
+        <character x="363" y="417" width="31" height="45" char="표" />
+        <character x="405" y="416" width="29" height="51" char="장" />
+        <character x="432" y="416" width="28" height="44" char="기" />
+        <character x="461" y="417" width="33" height="49" char="환" />
+        <character x="501" y="420" width="38" height="47" char="사" />
+        <character x="538" y="418" width="31" height="52" char="무" />
+        <character x="566" y="418" width="34" height="46" char="소" />
+      </word>
+      <word x="111" y="291" width="485" height="124">
+        <character x="111" y="291" width="89" height="116" char="대" />
+        <character x="200" y="292" width="89" height="120" char="양" />
+        <character x="287" y="313" width="62" height="98" char="공" />
+        <character x="346" y="314" width="67" height="99" char="인" />
+        <character x="411" y="316" width="59" height="98" char="중" />
+        <character x="466" y="317" width="68" height="93" char="개" />
+        <character x="530" y="318" width="66" height="97" char="사" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

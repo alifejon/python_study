@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04300.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="84" y="23" width="425" height="351">
+        <character x="84" y="23" width="151" height="173" char="돈" />
+        <character x="234" y="32" width="139" height="157" char="대" />
+        <character x="369" y="47" width="134" height="171" char="포" />
+      </word>
+      <word x="97" y="219" width="412" height="155">
+        <character x="97" y="222" width="65" height="132" char="8" />
+        <character x="161" y="222" width="49" height="128" char="2" />
+        <character x="209" y="219" width="50" height="130" char="3" />
+        <character x="300" y="236" width="52" height="121" char="9" />
+        <character x="350" y="239" width="53" height="125" char="2" />
+        <character x="403" y="240" width="50" height="124" char="0" />
+        <character x="451" y="237" width="58" height="137" char="1" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

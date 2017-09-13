@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04373.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="177" y="229" width="452" height="129">
+        <character x="177" y="252" width="105" height="102" char="한" />
+        <character x="281" y="246" width="108" height="111" char="밭" />
+        <character x="390" y="238" width="115" height="120" char="약" />
+        <character x="501" y="229" width="128" height="102" char="국" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

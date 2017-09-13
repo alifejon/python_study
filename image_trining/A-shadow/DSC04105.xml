@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04105.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="107" y="128" width="343" height="142">
+        <character x="107" y="191" width="85" height="67" char="야" />
+        <character x="192" y="194" width="89" height="75" char="쿠" />
+        <character x="278" y="195" width="86" height="75" char="르" />
+        <character x="361" y="194" width="89" height="75" char="트" />
+      </word>
+      <word x="209" y="128" width="146" height="63">
+        <character x="209" y="128" width="74" height="63" char="한" />
+        <character x="284" y="133" width="71" height="58" char="국" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

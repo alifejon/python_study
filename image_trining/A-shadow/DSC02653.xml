@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02653.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="18" y="32" width="600" height="144">
+        <character x="18" y="32" width="136" height="126" char="우" />
+        <character x="247" y="33" width="138" height="135" char="동" />
+        <character x="478" y="46" width="140" height="130" char="촌" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

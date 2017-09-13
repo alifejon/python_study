@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03216.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="61" y="66" width="499" height="97">
+        <character x="61" y="71" width="87" height="92" char="부" />
+        <character x="147" y="70" width="79" height="92" char="동" />
+        <character x="225" y="70" width="77" height="91" char="산" />
+        <character x="322" y="71" width="76" height="84" char="컨" />
+        <character x="397" y="66" width="80" height="95" char="설" />
+        <character x="478" y="67" width="82" height="91" char="팅" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

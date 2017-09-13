@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03438.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="77" y="352" width="474" height="103">
+        <character x="77" y="352" width="79" height="101" char="출" />
+        <character x="156" y="354" width="75" height="98" char="입" />
+        <character x="230" y="356" width="77" height="99" char="금" />
+        <character x="305" y="363" width="73" height="88" char="지" />
+        <character x="411" y="366" width="72" height="84" char="안" />
+        <character x="483" y="362" width="68" height="90" char="내" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

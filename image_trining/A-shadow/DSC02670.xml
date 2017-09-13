@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02670.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="6" y="14" width="600" height="303">
+        <character x="6" y="24" width="84" height="168" char="8" />
+        <character x="99" y="23" width="89" height="159" char="6" />
+        <character x="198" y="20" width="76" height="151" char="4" />
+        <character x="338" y="14" width="65" height="163" char="3" />
+        <character x="409" y="18" width="69" height="155" char="3" />
+        <character x="491" y="25" width="50" height="134" char="4" />
+        <character x="556" y="25" width="50" height="135" char="4" />
+      </word>
+      <word x="80" y="174" width="489" height="143">
+        <character x="80" y="207" width="102" height="110" char="전" />
+        <character x="192" y="193" width="97" height="98" char="민" />
+        <character x="301" y="187" width="83" height="94" char="부" />
+        <character x="401" y="181" width="74" height="82" char="동" />
+        <character x="480" y="174" width="89" height="86" char="산" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

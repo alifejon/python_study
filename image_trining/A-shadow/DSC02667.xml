@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02667.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="40" y="247" width="584" height="162">
+        <character x="40" y="255" width="96" height="151" char="둥" />
+        <character x="135" y="253" width="98" height="156" char="지" />
+        <character x="232" y="247" width="109" height="157" char="종" />
+        <character x="340" y="247" width="92" height="160" char="합" />
+        <character x="436" y="247" width="89" height="152" char="장" />
+        <character x="524" y="249" width="100" height="158" char="식" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

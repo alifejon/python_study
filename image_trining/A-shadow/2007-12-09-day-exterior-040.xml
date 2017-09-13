@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>image\0622\2007-12-09-day-exterior-040.jpg</imageName>
+    <resolution x="1600" y="1200" />
+    <words>
+      <word x="303" y="1029" width="93" height="90">
+        <character x="299" y="1023" width="93" height="90" char="쏘" />
+      </word>
+      <word x="1336" y="530" width="176" height="188">
+        <character x="1336" y="530" width="176" height="188" char="해" />
+      </word>
+      <word x="1536" y="738" width="65" height="56">
+        <character x="1536" y="738" width="65" height="56" char="단" />
+      </word>
+      <word x="1312" y="956" width="129" height="244">
+        <character x="1312" y="956" width="111" height="101" char="해" />
+        <character x="1339" y="1073" width="102" height="127" char="성" />
+      </word>
+      <word x="312" y="221" width="106" height="163">
+        <character x="312" y="221" width="35" height="98" char="쏘" />
+        <character x="346" y="257" width="37" height="104" char="렌" />
+        <character x="382" y="288" width="36" height="96" char="토" />
+      </word>
+      <word x="292" y="338" width="101" height="473">
+        <character x="320" y="338" width="67" height="133" char="노" />
+        <character x="303" y="483" width="90" height="186" char="래" />
+        <character x="292" y="647" width="101" height="164" char="방" />
+      </word>
+      <word x="274" y="814" width="118" height="95">
+        <character x="274" y="814" width="28" height="68" char="대" />
+        <character x="301" y="820" width="22" height="67" char="형" />
+        <character x="324" y="838" width="20" height="54" char="룸" />
+        <character x="346" y="841" width="19" height="57" char="완" />
+        <character x="364" y="850" width="28" height="59" char="비" />
+      </word>
+      <word x="513" y="369" width="342" height="106">
+        <character x="513" y="377" width="117" height="98" char="쏘" />
+        <character x="634" y="375" width="117" height="100" char="렌" />
+        <character x="753" y="369" width="102" height="88" char="토" />
+      </word>
+      <word x="487" y="461" width="659" height="306">
+        <character x="487" y="501" width="155" height="182" char="노" />
+        <character x="665" y="478" width="213" height="289" char="래" />
+        <character x="904" y="461" width="242" height="250" char="방" />
+      </word>
+      <word x="456" y="801" width="430" height="87">
+        <character x="456" y="817" width="87" height="65" char="대" />
+        <character x="545" y="807" width="71" height="81" char="형" />
+        <character x="621" y="801" width="81" height="81" char="룸" />
+        <character x="705" y="803" width="78" height="81" char="완" />
+        <character x="784" y="803" width="102" height="82" char="비" />
+      </word>
+      <word x="958" y="809" width="163" height="48">
+        <character x="958" y="815" width="22" height="33" char="8" />
+        <character x="979" y="812" width="22" height="38" char="" />
+        <character x="1000" y="812" width="20" height="36" char="6" />
+        <character x="1019" y="821" width="17" height="19" char="-" />
+        <character x="1035" y="811" width="21" height="40" char="7" />
+        <character x="1056" y="809" width="19" height="48" char="0" />
+        <character x="1076" y="815" width="21" height="33" char="8" />
+        <character x="1098" y="812" width="23" height="44" char="2" />
+      </word>
+      <word x="1057" y="982" width="113" height="219">
+        <character x="1060" y="982" width="103" height="104" char="쏘" />
+        <character x="1057" y="1085" width="113" height="116" char="렌" />
+      </word>
+    </words>
+    <illumination>yes</illumination>
+    <difficulty>4</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

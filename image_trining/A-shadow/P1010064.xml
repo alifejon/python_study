@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010064.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="108" y="126" width="347" height="69">
+        <character x="108" y="130" width="61" height="61" char="돼" />
+        <character x="167" y="133" width="50" height="60" char="지" />
+        <character x="221" y="130" width="49" height="63" char="왕" />
+        <character x="287" y="126" width="54" height="69" char="갈" />
+        <character x="400" y="136" width="55" height="51" char="비" />
+      </word>
+      <word x="100" y="203" width="360" height="68">
+        <character x="100" y="206" width="54" height="63" char="삼" />
+        <character x="154" y="203" width="49" height="68" char="겹" />
+        <character x="202" y="205" width="54" height="65" char="살" />
+        <character x="269" y="210" width="47" height="58" char="주" />
+        <character x="321" y="208" width="45" height="57" char="먹" />
+        <character x="367" y="216" width="41" height="47" char="구" />
+        <character x="407" y="207" width="53" height="62" char="이" />
+      </word>
+      <word x="106" y="277" width="360" height="76">
+        <character x="106" y="291" width="56" height="62" char="매" />
+        <character x="171" y="290" width="55" height="61" char="운" />
+        <character x="229" y="282" width="50" height="60" char="돼" />
+        <character x="279" y="284" width="45" height="56" char="지" />
+        <character x="325" y="285" width="48" height="59" char="갈" />
+        <character x="370" y="277" width="44" height="62" char="비" />
+        <character x="412" y="278" width="54" height="69" char="찜" />
+      </word>
+      <word x="228" y="401" width="275" height="52">
+        <character x="228" y="412" width="46" height="39" char="매" />
+        <character x="278" y="409" width="34" height="44" char="운" />
+        <character x="315" y="406" width="39" height="45" char="돼" />
+        <character x="358" y="407" width="31" height="43" char="지" />
+        <character x="395" y="407" width="33" height="38" char="갈" />
+        <character x="429" y="407" width="32" height="37" char="비" />
+        <character x="462" y="401" width="41" height="46" char="찜" />
+      </word>
+      <word x="12" y="407" width="77" height="53">
+        <character x="12" y="407" width="45" height="53" char="구" />
+        <character x="58" y="414" width="31" height="38" char="이" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>5</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

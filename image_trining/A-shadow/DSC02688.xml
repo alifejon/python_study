@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02688.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="130" y="242" width="460" height="119">
+        <character x="130" y="268" width="114" height="92" char="롯" />
+        <character x="242" y="260" width="111" height="101" char="데" />
+        <character x="353" y="256" width="116" height="101" char="리" />
+        <character x="469" y="242" width="121" height="107" char="아" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

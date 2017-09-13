@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04298.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="87" y="121" width="458" height="110">
+        <character x="87" y="121" width="98" height="104" char="피" />
+        <character x="185" y="122" width="112" height="99" char="자" />
+        <character x="296" y="125" width="123" height="103" char="뉴" />
+        <character x="417" y="124" width="128" height="107" char="스" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

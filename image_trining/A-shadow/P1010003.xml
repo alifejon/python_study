@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010003.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="9" y="129" width="620" height="128">
+        <character x="9" y="129" width="82" height="110" char="스" />
+        <character x="97" y="138" width="86" height="105" char="마" />
+        <character x="189" y="134" width="82" height="118" char="일" />
+        <character x="274" y="138" width="100" height="119" char="카" />
+        <character x="381" y="135" width="77" height="113" char="서" />
+        <character x="461" y="142" width="80" height="108" char="비" />
+        <character x="542" y="148" width="87" height="103" char="스" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>
