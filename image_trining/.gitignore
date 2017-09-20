@@ -1,3 +1,4 @@
 *.xml
 *.bmp
 *.jpg
+.DS_Store
