@@ -2,3 +2,5 @@
 *.bmp
 *.jpg
 .DS_Store
+
+kaist_dataset
