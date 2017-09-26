@@ -34,7 +34,6 @@ NUM_CLASSES = 10
 NUM_EXAMPLES_PER_EPOCH_FOR_TRAIN = 50000
 NUM_EXAMPLES_PER_EPOCH_FOR_EVAL = 10000
 
-
 def read_cifar10(filename_queue):
     """Reads and parses examples from CIFAR10 data files.
 

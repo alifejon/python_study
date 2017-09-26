@@ -71,9 +71,6 @@ def train():
         # inference model.
         logits = cifar10.inference(images)
 
-
-        print(images, logits)
-
         # Calculate loss.
         loss = cifar10.loss(logits, labels)
 
